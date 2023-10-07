@@ -33,6 +33,7 @@ The [valve] is described like this:
 ## Setup
 
 Install the Arduino software.
+<!--Install the `Arduino Low Power` library from the libraries manager: `Tools` -> `Manage Libries...`. -->
 
 
 
