@@ -48,5 +48,7 @@ Install the Arduino software.
 [valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
 [lh293d]: https://www.ti.com/product/L293D
 
+## Related Work
 
+- [Travelling Sprinkler](https://farmhack.org/tools/traveling-sprinkler)
 
