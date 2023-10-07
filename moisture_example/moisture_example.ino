@@ -1,6 +1,6 @@
-#define DIGITAL_PIN 3
+#define DIGITAL_PIN 6
 #define ANALOG_PIN 0
-#define SENSOR_POWER 2
+#define SENSOR_POWER 5
 uint16_t moistVal;
 boolean isMoist = false;
 String moisture;
@@ -28,5 +28,5 @@ Serial.println(moisture);
 Serial.print("Moisture: ");
 Serial.print(moistVal);
 Serial.println("%\n");
-delay(10000);
+delay(1000);
 }
