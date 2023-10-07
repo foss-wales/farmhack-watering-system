@@ -2,6 +2,16 @@
 
 The watering system we created on the farmhack at the Organic Growers Gathering 2023.
 
+## Hardware Requirements
+
+- Arduino (we use the Nano)
+- 5V 1A power supply, could be USB. (0.5A does not work)
+- LH293d
+- [Electric Solenoid Valve][valve]
+- cables
+- USB-cable
+- breadboard for prototyping
+
 ## References
 
 - [valve]
@@ -26,8 +36,7 @@ The [valve] is described like this:
 
 ### Motor Driver
 
-[LH293d PDF](https://www.ti.com/lit/ds/symlink/l293d.pdf?ts=1696650171249&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FL293D).
-
+The [LH293d PDF][lh293d] drives the valve because the Arduino cannot provide enough current to switch it.
 
 
 ## Setup
@@ -38,7 +47,7 @@ Install the Arduino software.
 
 
 [valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
-
+[lh293d]: https://www.ti.com/lit/ds/symlink/l293d.pdf?ts=1696650171249&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FL293D
 
 
 
