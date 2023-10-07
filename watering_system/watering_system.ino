@@ -35,6 +35,8 @@
 #define OPEN true
 #define CLOSED false
 
+/* ---------------------- global state ---------------------- */
+bool is_valve_open;
 
 /* ---------------------- functions ---------------------- */
 
@@ -84,7 +86,15 @@ void serial_print_current_moisture() {
  * Set the valve to OPEN and CLOSED
  */
 void set_valve(bool open) {
-  Serial.println(open ? "valve open" : "valve closed");
+  Serial.print("Valve is ");
+  if (open == is_valve_open) {
+    Serial.print("already ");
+  }
+  Serial.println(open ? "open." : "closed.");
+  if (is_valve_open == open) {
+    return;
+  }
+  is_valve_open = open;
   digitalWrite(PIN_LED_FOR_VALVE_STATE, open ? HIGH : LOW);
   digitalWrite(PIN_LH293D_VALVE_BLACK, open ? LOW : HIGH);
   digitalWrite(PIN_LH293D_VALVE_RED, open ? HIGH : LOW);
@@ -100,6 +110,7 @@ void setup_valve() {
   pinMode(PIN_LH293D_VALVE_RED, OUTPUT);
   pinMode(PIN_LH293D_VALVE_BLACK, OUTPUT);
   pinMode(PIN_LH293D_VALVE_RED, OUTPUT);
+  is_valve_open = true;
   set_valve(CLOSED);
 }
 
