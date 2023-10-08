@@ -77,7 +77,7 @@ You should see the live plot:
 ## CHANGELOG
 
 - `day-1`: The watering system has one threshold: If the moisture is below the threshold, it switches the valve on. If the moisture is above, switch the valve off.
-
+- `day-2`: The watering system has two threaholds: One to switch the watering on, one to switch it off.
 
 ## Related Work
 
