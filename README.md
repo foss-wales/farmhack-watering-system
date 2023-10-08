@@ -4,7 +4,8 @@ The watering system we created on the farmhack at the Organic Growers Gathering 
 
 - [Videos](https://diode.zone/c/farm_hack/videos)
 
-![][plot] ![](images/day-2-watering-setup.jpg)
+![][plot]
+![](images/day-2-watering-setup.jpg)
 
 ## Hardware Requirements
 
@@ -85,5 +86,5 @@ You should see the live plot:
 
 [valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
 [lh293d]: https://www.ti.com/product/L293D
-[plot]
+[plot]: plot/example.png
 
