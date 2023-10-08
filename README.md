@@ -4,7 +4,7 @@ The watering system we created on the farmhack at the Organic Growers Gathering 
 
 - [Videos](https://diode.zone/c/farm_hack/videos)
 
-![](plot/example.png)
+![][plot]
 
 ## Hardware Requirements
 
@@ -46,7 +46,32 @@ The [LH293d PDF][lh293d] drives the valve because the Arduino cannot provide eno
 
 Install the Arduino software.
 <!--Install the `Arduino Low Power` library from the libraries manager: `Tools` -> `Manage Libries...`. -->
+Open the `watering_system.ino` file.
+Flash it onto the microcontroller.
 
+### Live Plot
+
+1. Attach your phone to the Arduino.
+2. Install and open [USB Serial Telnet Server](https://f-droid.org/packages/com.clusterrr.usbserialtelnetserver/) (binds a USB serial converter to a Telnet client)
+3. Using the terminal, connnect to the server. This uses ip `172.16.0.135`
+   ```
+   cd plot  # we will work in the plot directory
+   telnet 172.16.0.135 2323 >> data.txt &
+   ```
+4. Create the virtual environment and install dependencies.
+   ```
+   virtualenv ENV python3
+   source ENV/bin/activate
+   pip install -r requirements.txt
+   ```
+5. Live-plot the chart.
+   ```
+   source ENV/bin/activate
+   python chart.py
+   ```
+   
+You should see the live plot:
+![Example plot image][plot]
 
 ## CHANGELOG
 
@@ -60,4 +85,5 @@ Install the Arduino software.
 
 [valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
 [lh293d]: https://www.ti.com/product/L293D
+[plot]
 

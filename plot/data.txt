@@ -6364,3 +6364,2139 @@ Valve is already open.
 moist (83%)
 The system is watering.
 Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (87%)
+The system is watering.
+Valve is closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (87%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (82%)
+The system is drying.
+Valve is already closed.
+moist (82%)
+The system is drying.
+Valve is already closed.
+moist (81%)
+The system is drying.
+Valve is already closed.
+moist (81%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (79%)
+The system is drying.
+Valve is already closed.
+moist (79%)
+The system is drying.
+Valve is already closed.
+moist (79%)
+The system is drying.
+Valve is already closed.
+moist (78%)
+The system is drying.
+Valve is already closed.
+moist (77%)
+The system is drying.
+Valve is already closed.
+moist (77%)
+The system is drying.
+Valve is already closed.
+moist (77%)
+The system is drying.
+Valve is already closed.
+moist (75%)
+The system is drying.
+Valve is already closed.
+moist (75%)
+The system is drying.
+Valve is already closed.
+moist (74%)
+The system is drying.
+Valve is already closed.
+moist (74%)
+The system is drying.
+Valve is already closed.
+moist (73%)
+The system is drying.
+Valve is already closed.
+moist (72%)
+The system is drying.
+Valve is already closed.
+moist (71%)
+The system is drying.
+Valve is already closed.
+moist (71%)
+The system is drying.
+Valve is already closed.
+moist (70%)
+The system is drying.
+Valve is already closed.
+moist (69%)
+The system is drying.
+Valve is already closed.
+moist (68%)
+The system is drying.
+Valve is already closed.
+moist (67%)
+The system is drying.
+Valve is already closed.
+moist (67%)
+The system is drying.
+Valve is already closed.
+moist (65%)
+The system is drying.
+Valve is already closed.
+moist (64%)
+The system is drying.
+Valve is already closed.
+moist (63%)
+The system is drying.
+Valve is already closed.
+moist (62%)
+The system is drying.
+Valve is already closed.
+moist (61%)
+The system is drying.
+Valve is already closed.
+moist (60%)
+The system is drying.
+Valve is already closed.
+moist (58%)
+The system is drying.
+Valve is already closed.
+moist (58%)
+The system is drying.
+Valve is already closed.
+moist (56%)
+The system is drying.
+Valve is already closed.
+moist (55%)
+The system is drying.
+Valve is already closed.
+moist (53%)
+The system is drying.
+Valve is already closed.
+moist (51%)
+The system is drying.
+Valve is already closed.
+moist (49%)
+The system is drying.
+Valve is already closed.
+moist (48%)
+The system is drying.
+Valve is already closed.
+moist (45%)
+The system is drying.
+Valve is already closed.
+moist (44%)
+The system is drying.
+Valve is already closed.
+moist (41%)
+The system is drying.
+Valve is already closed.
+dry (37%)
+The system is drying.
+Valve is open.
+dry (37%)
+The system is watering.
+Valve is already open.
+moist (38%)
+The system is watering.
+Valve is already open.
+moist (38%)
+The system is watering.
+Valve is already open.
+Trying 172.16.0.135...
+Connected to 172.16.0.135.
+Escape character is '^]'.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (87%)
+The system is watering.
+Valve is closed.
+moist (87%)
+The system is drying.
+Valve is already closed.
+moist (87%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (82%)
+The system is drying.
+Valve is already closed.
+moist (82%)
+The system is drying.
+Valve is already closed.
+moist (81%)
+The system is drying.
+Valve is already closed.
+moist (81%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (79%)
+The system is drying.
+Valve is already closed.
+moist (79%)
+The system is drying.
+Valve is already closed.
+moist (78%)
+The system is drying.
+Valve is already closed.
+moist (78%)
+The system is drying.
+Valve is already closed.
+moist (78%)
+The system is drying.
+Valve is already closed.
+moist (77%)
+The system is drying.
+Valve is already closed.
+moist (76%)
+The system is drying.
+Valve is already closed.
+moist (76%)
+The system is drying.
+Valve is already closed.
+moist (75%)
+The system is drying.
+Valve is already closed.
+moist (74%)
+The system is drying.
+Valve is already closed.
+moist (73%)
+The system is drying.
+Valve is already closed.
+moist (73%)
+The system is drying.
+Valve is already closed.
+moist (72%)
+The system is drying.
+Valve is already closed.
+moist (71%)
+The system is drying.
+Valve is already closed.
+moist (70%)
+The system is drying.
+Valve is already closed.
+moist (70%)
+The system is drying.
+Valve is already closed.
+moist (69%)
+The system is drying.
+Valve is already closed.
+moist (68%)
+The system is drying.
+Valve is already closed.
+moist (68%)
+The system is drying.
+Valve is already closed.
+moist (66%)
+The system is drying.
+Valve is already closed.
+moist (65%)
+The system is drying.
+Valve is already closed.
+moist (64%)
+The system is drying.
+Valve is already closed.
+moist (63%)
+The system is drying.
+Valve is already closed.
+moist (62%)
+The system is drying.
+Valve is already closed.
+moist (61%)
+The system is drying.
+Valve is already closed.
+moist (60%)
+The system is drying.
+Valve is already closed.
+moist (59%)
+The system is drying.
+Valve is already closed.
+moist (57%)
+The system is drying.
+Valve is already closed.
+moist (56%)
+The system is drying.
+Valve is already closed.
+moist (55%)
+The system is drying.
+Valve is already closed.
+moist (53%)
+The system is drying.
+Valve is already closed.
+moist (51%)
+The system is drying.
+Valve is already closed.
+moist (49%)
+The system is drying.
+Valve is already closed.
+moist (48%)
+The system is drying.
+Valve is already closed.
+moist (46%)
+The system is drying.
+Valve is already closed.
+moist (42%)
+The system is drying.
+Valve is already closed.
+moist (41%)
+The system is drying.
+Valve is already closed.
+moist (40%)
+The system is drying.
+Valve is open.
+moist (40%)
+The system is watering.
+Valve is already open.
+moist (38%)
+The system is watering.
+Valve is already open.
+moist (38%)
+The system is watering.
+Valve is already open.
+moist (38%)
+The system is watering.
+Valve is already open.
+moist (40%)
+The system is watering.
+Valve is already open.
+moist (41%)
+The system is watering.
+Valve is already open.
+moist (42%)
+The system is watering.
+Valve is already open.
+moist (43%)
+The system is watering.
+Valve is already open.
+moist (44%)
+The system is watering.
+Valve is already open.
+moist (45%)
+The system is watering.
+Valve is already open.
+moist (45%)
+The system is watering.
+Valve is already open.
+moist (46%)
+The system is watering.
+Valve is already open.
+moist (47%)
+The system is watering.
+Valve is already open.
+moist (48%)
+The system is watering.
+Valve is already open.
+moist (48%)
+The system is watering.
+Valve is already open.
+moist (49%)
+The system is watering.
+Valve is already open.
+moist (49%)
+The system is watering.
+Valve is already open.
+moist (50%)
+The system is watering.
+Valve is already open.
+moist (50%)
+The system is watering.
+Valve is already open.
+moist (52%)
+The system is watering.
+Valve is already open.
+moist (51%)
+The system is watering.
+Valve is already open.
+moist (52%)
+The system is watering.
+Valve is already open.
+moist (53%)
+The system is watering.
+Valve is already open.
+moist (53%)
+The system is watering.
+Valve is already open.
+moist (54%)
+The system is watering.
+Valve is already open.
+moist (54%)
+The system is watering.
+Valve is already open.
+moist (55%)
+The system is watering.
+Valve is already open.
+moist (55%)
+The system is watering.
+Valve is already open.
+moist (55%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (60%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (63%)
+The system is watering.
+Valve is already open.
+moist (63%)
+The system is watering.
+Valve is already open.
+moist (63%)
+The system is watering.
+Valve is already open.
+moist (64%)
+The system is watering.
+Valve is already open.
+moist (64%)
+The system is watering.
+Valve is already open.
+moist (65%)
+The system is watering.
+Valve is already open.
+moist (65%)
+The system is watering.
+Valve is already open.
+moist (65%)
+The system is watering.
+Valve is already open.
+moist (65%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (67%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (83%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (84%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (85%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (86%)
+The system is watering.
+Valve is already open.
+moist (87%)
+The system is watering.
+Valve is closed.
+moist (87%)
+The system is drying.
+Valve is already closed.
+moist (87%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (86%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (85%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (84%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (83%)
+The system is drying.
+Valve is already closed.
+moist (82%)
+The system is drying.
+Valve is already closed.
+moist (82%)
+The system is drying.
+Valve is already closed.
+moist (81%)
+The system is drying.
+Valve is already closed.
+moist (81%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (80%)
+The system is drying.
+Valve is already closed.
+moist (79%)
+The system is drying.
+Valve is already closed.
+moist (78%)
+The system is drying.
+Valve is already closed.
+moist (78%)
+The system is drying.
+Valve is already closed.
+moist (77%)
+The system is drying.
+Valve is already closed.
+moist (77%)
+The system is drying.
+Valve is already closed.
+moist (76%)
+The system is drying.
+Valve is already closed.
+moist (75%)
+The system is drying.
+Valve is already closed.
+moist (75%)
+The system is drying.
+Valve is already closed.
+moist (74%)
+The system is drying.
+Valve is already closed.
+moist (74%)
+The system is drying.
+Valve is already closed.
+moist (73%)
+The system is drying.
+Valve is already closed.
+moist (72%)
+The system is drying.
+Valve is already closed.
+moist (72%)
+The system is drying.
+Valve is already closed.
+moist (71%)
+The system is drying.
+Valve is already closed.
+moist (70%)
+The system is drying.
+Valve is already closed.
+moist (69%)
+The system is drying.
+Valve is already closed.
+moist (69%)
+The system is drying.
+Valve is already closed.
+moist (67%)
+The system is drying.
+Valve is already closed.
+moist (65%)
+The system is drying.
+Valve is already closed.
+moist (64%)
+The system is drying.
+Valve is already closed.
+moist (63%)
+The system is drying.
+Valve is already closed.
+moist (62%)
+The system is drying.
+Valve is already closed.
+moist (62%)
+The system is drying.
+Valve is already closed.
+moist (61%)
+The system is drying.
+Valve is already closed.
+moist (60%)
+The system is drying.
+Valve is already closed.
+moist (58%)
+The system is drying.
+Valve is already closed.
+moist (57%)
+The system is drying.
+Valve is already closed.
+moist (55%)
+The system is drying.
+Valve is already closed.
+moist (54%)
+The system is drying.
+Valve is already closed.
+moist (52%)
+The system is drying.
+Valve is already closed.
+moist (50%)
+The system is drying.
+Valve is already closed.
+moist (48%)
+The system is drying.
+Valve is already closed.
+moist (46%)
+The system is drying.
+Valve is already closed.
+moist (45%)
+The system is drying.
+Valve is already closed.
+moist (43%)
+The system is drying.
+Valve is already closed.
+moist (41%)
+The system is drying.
+Valve is already closed.
+dry (36%)
+The system is drying.
+Valve is open.
+dry (36%)
+The system is watering.
+Valve is already open.
+dry (37%)
+The system is watering.
+Valve is already open.
+dry (37%)
+The system is watering.
+Valve is already open.
+moist (39%)
+The system is watering.
+Valve is already open.
+moist (41%)
+The system is watering.
+Valve is already open.
+moist (41%)
+The system is watering.
+Valve is already open.
+moist (42%)
+The system is watering.
+Valve is already open.
+moist (43%)
+The system is watering.
+Valve is already open.
+moist (42%)
+The system is watering.
+Valve is already open.
+moist (43%)
+The system is watering.
+Valve is already open.
+moist (44%)
+The system is watering.
+Valve is already open.
+moist (45%)
+The system is watering.
+Valve is already open.
+moist (46%)
+The system is watering.
+Valve is already open.
+moist (46%)
+The system is watering.
+Valve is already open.
+moist (47%)
+The system is watering.
+Valve is already open.
+moist (48%)
+The system is watering.
+Valve is already open.
+moist (48%)
+The system is watering.
+Valve is already open.
+moist (49%)
+The system is watering.
+Valve is already open.
+moist (50%)
+The system is watering.
+Valve is already open.
+moist (49%)
+The system is watering.
+Valve is already open.
+moist (50%)
+The system is watering.
+Valve is already open.
+moist (51%)
+The system is watering.
+Valve is already open.
+moist (52%)
+The system is watering.
+Valve is already open.
+moist (53%)
+The system is watering.
+Valve is already open.
+moist (53%)
+The system is watering.
+Valve is already open.
+moist (54%)
+The system is watering.
+Valve is already open.
+moist (53%)
+The system is watering.
+Valve is already open.
+moist (53%)
+The system is watering.
+Valve is already open.
+moist (54%)
+The system is watering.
+Valve is already open.
+moist (54%)
+The system is watering.
+Valve is already open.
+moist (56%)
+The system is watering.
+Valve is already open.
+moist (56%)
+The system is watering.
+Valve is already open.
+moist (56%)
+The system is watering.
+Valve is already open.
+moist (56%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (57%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (58%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (60%)
+The system is watering.
+Valve is already open.
+moist (59%)
+The system is watering.
+Valve is already open.
+moist (60%)
+The system is watering.
+Valve is already open.
+moist (60%)
+The system is watering.
+Valve is already open.
+moist (60%)
+The system is watering.
+Valve is already open.
+moist (60%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (61%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (62%)
+The system is watering.
+Valve is already open.
+moist (63%)
+The system is watering.
+Valve is already open.
+moist (63%)
+The system is watering.
+Valve is already open.
+moist (63%)
+The system is watering.
+Valve is already open.
+moist (64%)
+The system is watering.
+Valve is already open.
+moist (64%)
+The system is watering.
+Valve is already open.
+moist (64%)
+The system is watering.
+Valve is already open.
+moist (64%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (65%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (66%)
+The system is watering.
+Valve is already open.
+moist (67%)
+The system is watering.
+Valve is already open.
+moist (67%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (68%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (69%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (70%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (71%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (72%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (73%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (74%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (75%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (76%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (77%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (78%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (79%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (80%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (81%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
+moist (82%)
+The system is watering.
+Valve is already open.
