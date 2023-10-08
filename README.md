@@ -45,7 +45,7 @@ The [LH293d PDF][lh293d] drives the valve because the Arduino cannot provide eno
 
 ## Setup
 
-Install the Arduino software.
+Install the [Arduino IDE](https://www.arduino.cc/en/software) software.
 <!--Install the `Arduino Low Power` library from the libraries manager: `Tools` -> `Manage Libries...`. -->
 Open the `watering_system.ino` file.
 Flash it onto the microcontroller.
