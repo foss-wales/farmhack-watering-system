@@ -24,7 +24,15 @@
 /*
  * This is the maximum percentage that us shown when this value is set to 100.
  */
-#define MOISTURE_PERCENT_MAXIMUM_VALUE_WHEN_IN_WATER 70
+#define MOISTURE_PERCENT_MAXIMUM_VALUE_WHEN_IN_WATER 85
+
+/* These are state machine variables.
+ * The system has these states:
+ * - WATERING
+ * - DRYING
+ */
+#define STM_MOISTURE_PERCENT_TO_START_WATERING 40
+#define STM_MOISTURE_PERCENT_TO_STOP_WATERING  87
 
 /* ---------------------- Dependencies ---------------------- */
 //#include "ArduinoLowPower.h" /* https://www.arduino.cc/reference/en/libraries/arduino-low-power/ */
@@ -114,6 +122,47 @@ void setup_valve() {
   set_valve(CLOSED);
 }
 
+/* ---------------------- state machine ---------------------- */
+
+enum State {
+  watering,
+  drying
+};
+
+State state = drying;
+
+void serial_print_state() {
+  Serial.print("The system is ");
+  switch (state) {
+    case watering : Serial.print("watering"); break;
+    case drying   : Serial.print("drying"); break;
+  }
+  Serial.println(".");
+}
+
+void loop_stm() {
+  Moisture moisture = read_moisture();
+  serial_print_moisture(moisture);
+  serial_print_state();
+  switch (state) {
+    case watering : loop_watering(moisture); break;
+    case drying   : loop_drying(moisture); break;
+  }
+  set_valve(state == watering);
+}
+
+void loop_watering(Moisture moisture) {
+  if (moisture.percent >= STM_MOISTURE_PERCENT_TO_STOP_WATERING) {
+    state = drying;
+  }
+}
+
+void loop_drying(Moisture moisture) {
+  if (moisture.percent <= STM_MOISTURE_PERCENT_TO_START_WATERING) {
+    state = watering;
+  }  
+}
+
 /* ---------------------- program ---------------------- */
 
 
@@ -125,8 +174,6 @@ void setup() {
 }
 
 void loop() {
-  Moisture moisture = read_moisture();
-  serial_print_moisture(moisture);
-  set_valve(!moisture.is_moist);
+  loop_stm();
   delay(1000);
 }

@@ -46,11 +46,16 @@ Install the Arduino software.
 <!--Install the `Arduino Low Power` library from the libraries manager: `Tools` -> `Manage Libries...`. -->
 
 
+## CHANGELOG
 
-[valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
-[lh293d]: https://www.ti.com/product/L293D
+- `day-1`: The watering system has one threshold: If the moisture is below the threshold, it switches the valve on. If the moisture is above, switch the valve off.
+
 
 ## Related Work
 
 - [Travelling Sprinkler](https://farmhack.org/tools/traveling-sprinkler)
+ the mposi
+
+[valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
+[lh293d]: https://www.ti.com/product/L293D
 
