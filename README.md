@@ -4,6 +4,8 @@ The watering system we created on the farmhack at the Organic Growers Gathering 
 
 - [Videos](https://diode.zone/c/farm_hack/videos)
 
+![](plot/example.png)
+
 ## Hardware Requirements
 
 - Arduino (we use the Nano) from [Aliexpress](https://www.aliexpress.com/item/32915861640.html?spm=a2g0o.productlist.main.3.6be56f377Gc877&algo_pvid=d221dbed-ea56-4897-85c3-898387cb2ec8&algo_exp_id=d221dbed-ea56-4897-85c3-898387cb2ec8-1&pdp_npi=3%40dis%21GBP%212.23%211.89%21%21%21%21%21%40211bea6216845643713245738d07ea%2112000027206340064%21sea%21UK%21195802511&curPageLogUid=JQ1FXJN9cAJU)
