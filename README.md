@@ -4,7 +4,7 @@ The watering system we created on the farmhack at the Organic Growers Gathering 
 
 - [Videos](https://diode.zone/c/farm_hack/videos)
 
-![][plot]
+![][plot] ![](images/day-2-watering-setup.jpg)
 
 ## Hardware Requirements
 
