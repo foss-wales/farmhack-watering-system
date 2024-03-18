@@ -13,10 +13,10 @@ The watering system we created on the farmhack at the Organic Growers Gathering 
 - 5V 1A power supply, could be USB. (0.5A does not work)
 - L293d from [Aliexpress](https://www.aliexpress.com/item/1005005989900321.html?spm=a2g0o.productlist.main.9.5b56kIL3kIL3YH&algo_pvid=2d6590f2-7994-4b45-bafa-48d26f7fb863&aem_p4p_detail=202310070551052056987919024460000078034&algo_exp_id=2d6590f2-7994-4b45-bafa-48d26f7fb863-4&pdp_npi=4%40dis%21GBP%211.17%211.13%21%21%2110.08%21%21%4021038edc16966830657447281eb1e8%2112000035202323845%21sea%21UK%21195802511%21&curPageLogUid=fLHj9Z6POS77&search_p4p_id=202310070551052056987919024460000078034_1)
 - [Electric Solenoid Valve][valve]
+- [Soil Moisture Sensor Hygrometer Humidity Detection Module Kit, Comparator Board F2F Jumper Cable 3.3V 5V Watering System](https://www.amazon.co.uk/gp/product/B07V4KXZ35/ref=ppx_od_dt_b_asin_title_s00)
 - jumper cables
 - USB-cable
 - breadboard for prototyping
-- 
 
 ## References
 
