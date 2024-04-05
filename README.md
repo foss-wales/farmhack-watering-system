@@ -2,7 +2,9 @@
 
 The watering system we created on the farmhack at the Organic Growers Gathering 2023.
 
-- [Videos](https://diode.zone/c/farm_hack/videos)
+## Videos
+- [Day 1 Video](https://diode.zone/w/boc9zHLPWRFREuW6g6F3Xm)
+- [Day 2 Video](blob/main/images/OGG-Watering-Demo.20231007.mp4)
 
 ![][plot]
 ![](images/day-2-watering-setup.jpg)
@@ -25,7 +27,7 @@ The watering system we created on the farmhack at the Organic Growers Gathering 
 The [valve] is described like this:
 
 > As per header, the product itself is excellent, well-made and extremely reliable. However, it is handicapped by absolutely abysmal documentation, which could be very frustrating. I have a serious background in IoT and electronics, but I were almost on the verge of returning it, before figuring out how to make it work. Once I understood it - it is perfect.
-> 
+>
 > 1. This is an indirect pilot operated asymmetrical valve. It means that it only operates in one direction (watch the arrow on the body showing the direction of slow of water. It also requires a minimum pressure differential of at least 1 bar (in my experience). The more water pressure is applied - the better it will work. It works perfectly with standard UK water mains and garden hoses, but not with micro irrigation systems (not enough pressure)
 > 2. If the intake water pressure is lost - the valve will automatically shut
 > 3. The thread is UK standard BSP 1/2 inch
@@ -70,7 +72,7 @@ Flash it onto the microcontroller.
    source ENV/bin/activate
    python chart.py
    ```
-   
+
 You should see the live plot:
 ![Example plot image][plot]
 
@@ -86,4 +88,3 @@ You should see the live plot:
 [valve]: https://www.amazon.co.uk/dp/B08XK896N4?psc=1&ref=ppx_yo2ov_dt_b_product_details
 [lh293d]: https://www.ti.com/product/L293D
 [plot]: plot/example.png
-
